@@ -1,0 +1,9 @@
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\bin\Release\RegistrationNewUserTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\bin\Release\RegistrationNewUserTestProject.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\bin\Release\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\bin\Release\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\bin\Release\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\bin\Release\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\obj\Release\RegistrationNewUserTestProject.csprojResolveAssemblyReference.cache
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\obj\Release\RegistrationNewUserTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\RegistrationNewUserTestProject\RegistrationNewUserTestProject\obj\Release\RegistrationNewUserTestProject.pdb
